@@ -47,3 +47,4 @@ Your output should be formatted in the following way to the terminal:
     - Apollo 13
 
 ### Learning
+format strings in python
