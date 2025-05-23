@@ -33,8 +33,6 @@ Steps:
     - Print the success rate as a percentage.
     - Print the names of the missions launched before the year 2000.
 
-         
-
 Your output should be formatted in the following way to the terminal:
 
     Total number of missions: 7
